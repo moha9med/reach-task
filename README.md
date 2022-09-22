@@ -19,3 +19,4 @@ we can return the ads with advertiser, or we can return just the ads for any adv
 api/advertiser/{advertiser_id}/ads (get request) 
 
 ## don't forget to seed the data.
+## you can try the unit test.
